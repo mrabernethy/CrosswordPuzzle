@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 19 16:34:03 NZDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0149-c61d-33cf-000006df5a80 
+on database directory C:\Development\Projects\PDC_Crossword\CWGUI1.1\CrossWordGUI\PlayersDB with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_20/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_20-b26
+user.dir=C:\Development\Projects\PDC_Crossword\CWGUI1.1\CrossWordGUI
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

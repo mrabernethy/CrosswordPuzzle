@@ -1,0 +1,13 @@
+MILLION:A _______ dollars is a lot of money.:across:1:0:1
+TIMES:Two _____ four is eight.:across:3:2:3
+SEVEN:What's four plus three?:across:1:4:6
+THREE:What's twelve divided by four?:across:0:6:8
+FOUR:What's seven minus three?:across:6:6:9
+TWELVE:What's two times two times three?:across:2:8:10
+MINUS:Nine _____ one is eight.:down:1:0:1
+ONE:What's three minus two?:down:6:0:2
+SIX:What's three times two?:down:7:2:4
+HUNDRED:What's ten times ten?:down:9:2:5
+ELEVEN:What's three plus two plus six?:down:4:4:7
+TWO:What's one plus one?:down:0:6:8
+FIVE:What's ten divided by two?:down:6:6:9

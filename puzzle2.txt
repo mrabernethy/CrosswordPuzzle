@@ -1,0 +1,7 @@
+BOOK:What do you read?:across:5:0:1
+PENCIL:What do you write with?:across:0:1:2
+CHAIR:Where do you sit?:across:5:3:4
+TEACHER:Who teaches the class?:across:3:7:5
+DESK:Where do you put your book?:across:5:9:6
+BLACKBOARD:Where does the teacher write?:down:5:0:1
+ERASER:Pencil and ______.:down:9:2:3

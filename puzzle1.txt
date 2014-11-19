@@ -1,0 +1,6 @@
+SOCCER:You kick a black and white ball.:across:0:2:2
+TENNIS:You need a racket and a net.:across:2:4:4
+BASKETBALL:You throw the ball into a basket.:across:0:7:5
+HOCKEY:A sport you play in an ice rink.:down:3:0:1
+BASEBALL:You need a glove and a bat.:down:7:2:3
+SKI:A winter sport.:down:2:7:6

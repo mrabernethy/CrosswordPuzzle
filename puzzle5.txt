@@ -1,0 +1,12 @@
+TO:I go __ school.:across:0:1:4
+CARROT:What vegetable do rabbits like?:across:2:2:6
+WATERMELON:A delicious big fruit in summer.:across:0:4:7
+AT:I am __ school.:across:8:6:10
+APPLE:A red fruit.:across:2:7:11
+ON:My book is __ the desk.:across:2:9:12
+STRAWBERRY:A small red fruit.:down:0:0:1
+GRAPE:A small purple fruit.:down:3:0:2
+ONION:White and spicy vegetable. Comes in layers.:down:9:0:3
+FROM:I got a letter ____ my friend.:down:5:1:5
+TOMATO:A vegetable in spaghetti.:down:2:4:8
+ORANGE:A fruit AND a colour.:down:8:4:9
